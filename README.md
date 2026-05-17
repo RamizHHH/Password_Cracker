@@ -1,1 +1,3 @@
-# Password_Auditor
+# Password_Cracker
+
+**USED FOR EDUCATIONAL AND CTF PURPOSES ONLY**
